@@ -2,8 +2,7 @@
 
 This microservice provides movie details, including overviews, based on movie IDs.
 
-**Communication Contract:
-**
+**Communication Contract:**
 
 **Requesting Data**
 
