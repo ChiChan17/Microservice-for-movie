@@ -62,7 +62,8 @@ In case of any errors during the request or response process, the .catch method 
 
 **UML DIAGRAM:**
 
-![image](https://github.com/ChiChan17/microservice-Tan-Movie/assets/114010974/85f222d9-1374-45a4-91fd-fca6c8502558)
+![image](https://github.com/ChiChan17/microservice-Tan-Movie/assets/114010974/1de4667c-ca07-488f-9582-63e198c21eba)
+
 
 
 
