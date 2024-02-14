@@ -61,5 +61,10 @@ Here's what happens when you execute the code:
    
 In case of any errors during the request or response process, the .catch method is used to handle the error and log it to the console for debugging purposes.
 
+**UML DIAGRAM:**
+
+![image](https://github.com/ChiChan17/microservice-Tan-Movie/assets/114010974/85f222d9-1374-45a4-91fd-fca6c8502558)
+
+
 
 
