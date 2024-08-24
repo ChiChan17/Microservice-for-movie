@@ -3,7 +3,7 @@ const axios = require('axios');
 const cors = require('cors')
 const app = express();
 const PORT = process.env.PORT || 3000;
-const apiKey = "905325ba3ffbdd89fba8248049958bff";
+const apiKey = "Get API Key from https://api.themoviedb.org";
 const movieEndpoint = "https://api.themoviedb.org/3/movie/";
 
 
